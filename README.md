@@ -1,4 +1,4 @@
-# Assignment_6
+# App-6
 Learn to integrate REST APIs into your Flutter app by building a creative application (like a climate/weather app or anything you imagine) that fetches and displays live data using HTTP requests. This assignment focuses on mastering backend communication, data parsing, and displaying dynamic content in a Flutter app.
 ![WhatsApp Image 2025-07-20 at 22 52 50_8690627a](https://github.com/user-attachments/assets/95a490e8-30c3-4ccd-a28c-aa6379e382e1)
 ![WhatsApp Image 2025-07-20 at 22 52 50_2af8a2c9](https://github.com/user-attachments/assets/66260cd9-c65d-43a8-b395-73720805e585)
